@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #ffcee9;
   }
 
 .container {
@@ -7,7 +7,7 @@ body {
 } 
   
 h1 {
-  color: #fff;
+  color: #ee99c9;
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
   text-align: center;
@@ -15,7 +15,7 @@ h1 {
 }
   
 img {
-  max-width: 40%;
+  max-width: 20%;
   padding: 20px;
   display: block;
   margin: 0 auto;
@@ -31,11 +31,11 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #cd7baa;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
-  box-shadow: 0 6px #2E282A;
+  box-shadow:#ad5d8c 6px ;
 }
   
 .btn a {
@@ -49,7 +49,7 @@ form {
 }
 
 .btn:hover {
-  box-shadow: 0 4px #2E282A;
+  box-shadow: 0 4px #8e416f;
   top: 2px; 
 }
 
